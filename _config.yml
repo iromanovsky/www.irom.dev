@@ -30,7 +30,7 @@ twitter_username: iromanovsky
 github_username:  iromanovsky
 
 # Build settings
-theme: architect
+theme: Architect
 plugins:
   - jekyll-feed
 
