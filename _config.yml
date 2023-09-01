@@ -30,9 +30,11 @@ twitter_username: iromanovsky
 github_username:  iromanovsky
 
 # Build settings
-theme: Architect
+#theme: minima
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme #added for theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
