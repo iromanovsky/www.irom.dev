@@ -30,7 +30,7 @@ twitter_username: iromanovsky
 github_username:  iromanovsky
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
